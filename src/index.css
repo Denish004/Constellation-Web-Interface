@@ -1,0 +1,31 @@
+/* @import "@fontsource/inter";
+@import "@fontsource/montserrat"; */
+
+@import "tailwindcss";
+
+
+/* Base app colors */
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background: rgb(var(--bg));
+  color: rgb(var(--text));
+}
+
+/* IMPORTANT:
+   If you previously had a global reset like:
+   button { background: transparent !important; }
+   remove it. Tailwind should control button styling. */
+
+body {
+  /* @apply bg-background font-sans text-primary-dark min-h-screen; */
+  margin: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

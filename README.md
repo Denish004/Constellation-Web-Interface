@@ -120,9 +120,6 @@ Detailed docs live in the [`docs/`](docs/) folder:
 | [state.md](docs/state.md) | All state variables, derived state, and action functions |
 | [fsm.md](docs/fsm.md) | FSM states, transition rules, error handling, and recovery |
 
-## AI Usage Disclosure
-
-During the development of this prototype, AI tools (primarily ChatGPT) were occasionally used as a development assistant.
 
 ## AI Usage Disclosure
 

@@ -124,13 +124,18 @@ Detailed docs live in the [`docs/`](docs/) folder:
 
 During the development of this prototype, AI tools (primarily ChatGPT) were occasionally used as a development assistant.
 
-AI assistance was used for:
+## AI Usage Disclosure
 
-- exploring UI theming and layout ideas
-- debugging configuration and styling issues
-- clarifying documentation and framework usage
-- suggesting possible approaches for certain UI behaviors, such as transition elements and interactive components
+During the development of this prototype, AI tools (primarily ChatGPT) were used as a development assistant.
 
-The overall system architecture, interface structure, state management logic, and integration of components were designed and implemented by me(author). 
+AI assistance was mainly used for:
+- exploring possible UI layout ideas and dashboard structures
+- troubleshooting React, Vite, and Tailwind configuration issues
+- discussing possible approaches for implementing certain UI components and interaction patterns
+- improving wording and clarity in documentation
 
-All AI-assisted suggestions were reviewed, understood, and integrated manually into the project.
+The system architecture, component structure, FSM representation, and application state management were designed and implemented by me.
+
+AI suggestions were used only as references or starting points during development. All suggestions were reviewed, adapted, and integrated manually into the project.
+
+I am fully familiar with the implementation and design decisions in the project and can explain any part of the code or architecture if required.

@@ -119,3 +119,18 @@ Detailed docs live in the [`docs/`](docs/) folder:
 | [components.md](docs/components.md) | Props reference for every component |
 | [state.md](docs/state.md) | All state variables, derived state, and action functions |
 | [fsm.md](docs/fsm.md) | FSM states, transition rules, error handling, and recovery |
+
+## AI Usage Disclosure
+
+During the development of this prototype, AI tools (primarily ChatGPT) were occasionally used as a development assistant.
+
+AI assistance was used for:
+
+- exploring UI theming and layout ideas
+- debugging configuration and styling issues
+- clarifying documentation and framework usage
+- suggesting possible approaches for certain UI behaviors, such as transition elements and interactive components
+
+The overall system architecture, interface structure, state management logic, and integration of components were designed and implemented by me(author). 
+
+All AI-assisted suggestions were reviewed, understood, and integrated manually into the project.
